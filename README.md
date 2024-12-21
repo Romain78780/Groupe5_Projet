@@ -19,3 +19,5 @@ Carte de la pollution à Metz :
 
 Carte des arrêts de bus à Metz : 
 ![image](https://github.com/user-attachments/assets/1b0668c4-17f2-4398-bbdf-f20d53265230)
+
+En comparant les deux dernière cartes on remarque qu'il y a  beaucoup d'arrêts de bus dans le centre de la ville et que la pollution est plus élevé dans le centre aussi. Le contraire est aussi vrai car la pollution est plus faible au Sud-Est de la ville et il y a peu d'arrêt de bus à cet endroit. 
